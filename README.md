@@ -10,6 +10,6 @@ Com base nesse contexto e nas premissas de negócio estabelecidas, podemos avali
 
 - Aluguel deve ser abaixo de 4000€: O cliente decidiu que o valor aluguel não pode ser acima de 4000€. Analisando o valor total do aluguel, podemos filtrar os imóveis que possuem o aluguel abaixo do valor estipulado pelo cliente.
 - Deve aceitar animais: Analisando os dados de aceitação de animais, podemos filtrar os imóveis que aceitam a presença de animais.
-- Deve ter 2 ou 3 cômodos: Analisando os dados, podemos identificar os imóveis que possuem 2 e 3 cômodos.
+- Deve ter 2 ou 3 quartos: Analisando os dados, podemos identificar os imóveis que possuem 2 e 3 quartos.
 - Andar do imóvel: Analisando os valores dos aluguéis por andar onde encontro o imóvel, foi decidido o apartamento no andar mais alto respeitando todas as outras métricas.
 
